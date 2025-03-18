@@ -19,6 +19,12 @@ Sales Performance Overview: Sales trends by category and discounts.
 Customer Satisfaction: Average ratings and top-rated products.
 Sentiment Analysis: Review insights based on positive/negative feedback keywords.
 
+Business Insights and Use-
+Discount vs Sales Ratings- Does higher Discoint result in higher ratings?
+Top Selling Products
+Discount Category and Products Sold wrt Discount Category- Does Higher Discount result in more Sales?
+Customer Review Keywords sentiment Analysis- What specific keywords related to a product category resulted in bad ratings?
+
 Technologies Used
 SQL (MySQL): Data cleaning, transformation, and analysis.
 Python (NLTK, TextBlob): Sentiment analysis on customer reviews.
