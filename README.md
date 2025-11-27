@@ -33,7 +33,3 @@ Power BI: Data visualization and dashboard creation.
 Future Scope
 Predictive Analysis: Forecasting demand trends based on past sales.
 Advanced NLP: Use AI models for deeper customer sentiment analysis.
-
-Contributors
-Bhanu - SQL Analysis, Data Cleaning, Power BI Dashboard.
-ChatGPT - Guidance and Support. 😊
